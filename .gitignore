@@ -1,3 +1,5 @@
 .idea
 GCDCalculator.iml
 out/*
+.classpath
+.project
